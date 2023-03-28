@@ -1,0 +1,187 @@
+{
+  "portada": {
+    "id": 0,
+    "photo": "./assets/imagenes/imagen.png",
+    "background": "./assets/imagenes/fotoFondo.jpg",
+    "nombre": "Valentin Sigaudo"
+  },
+  "sobreMi": [
+    {
+      "id": 0,
+      "titulo": "Full Stack Web Developer",
+      "texto": "Hello! I am Valentín Sigaudo, I am 23 years old, a systems engineering student, and a Full Stack Web Developer [Java SpringBoot, Angular, MySQL]. I learn quickly and I am willing to improve my skills and learn the necessary technologies to work."
+    }
+  ],
+  "misProyectos": [
+    {
+      "id": 1,
+      "photo": "./assets/imagenes/GeneralaAngular.png",
+      "nombreProyecto": "Generala Angular",
+      "descripcionProyecto": "Generala made 100% by me. It is built using pure Angular (TypeScript, HTML, and CSS). It is a dice game that involves forming combinations to WIN! You can play against the computer or 1 vs 1 with a friend!",
+      "periodoProyecto": "2 dias, 28/2/23 - 1/3/23",
+      "linkProyecto": "https://generalavs.netlify.app"
+    },
+    {
+      "id": 2,
+      "photo": "./assets/imagenes/climapp.PNG",
+      "nombreProyecto": "ClimApp",
+      "descripcionProyecto":"A webpage that shows the real-time weather status of any city in the world. It is made 100% with Angular (TypeScript, HTML, and CSS)." ,
+      "periodoProyecto": "24 de febrero de 2023",
+      "linkProyecto": "https://climapplication.netlify.app"
+    },
+    {
+      "id": 3,
+      "photo": "./assets/imagenes/port.PNG",
+      "nombreProyecto": "Portfolio Funcional Propio (esta misma pagina)",
+      "descripcionProyecto": "This is the final project of the 'Argentina Programa 3' course. It is made using Angular, Bootstrap, SpringBoot, MySQL, Java. The deployment is on CleverCloud, Render, and Firebase. In the referred link, there is a video showing how it works.",
+      "periodoProyecto": "2022 - 2023",
+      "linkProyecto": "https://youtu.be/FDocwSOm6cY"
+    },
+    {
+      "id": 4,
+      "photo": "./assets/imagenes/andlu.PNG",
+      "nombreProyecto": "ANDLUml",
+      "descripcionProyecto": "It is an animal management app for keeping records of vaccinations, nativities, etc. You can load animals, view a list, update it, search by tag number, among other things. It is made in Python with a MySQlite database system.",
+      "periodoProyecto": "September 2021",
+      "linkProyecto": "https://www.mediafire.com/file/czuint3rzbrve9v/ANDLUml2.zip/file"
+    },
+    {
+      "id": 5,
+      "photo": "./assets/imagenes/generala.PNG",
+      "nombreProyecto": "Generala",
+      "descripcionProyecto": "Generala is a dice game that consists of rolling the dice and forming games with the numbers, with the option of rolling some dice again to form a game. This is a college project and it is entirely made in C++.",
+      "periodoProyecto": "2018",
+      "linkProyecto": "https://github.com/Catul0/Generala-C-"
+    }
+  ],
+  "misSkills": [
+    {
+      "id": 1,
+      "titulo": "Angular",
+      "texto": "Angular is an open source TypeScript web application framework, used to create and maintain single-page web applications. I learned it in 'Argentina Programa'.",
+      "nivel": "Very Good"
+    },
+    {
+      "id": 2,
+      "titulo": "HTML",
+      "texto": "I learned HTML self-taught and also in the 'Argentina Programa' course.",
+      "nivel": "Very Good"
+    },
+    {
+      "id": 3,
+      "titulo": "JAVA",
+      "texto": "I acquired knowledge about Java in 'Argentina Programa'.",
+      "nivel": "Medium"
+    },
+    {
+      "id": 4,
+      "titulo": "TypeScript",
+      "texto": "I started using TypeScript along with Angular because that language is needed to provide functionality to the webpage.",
+      "nivel": "Good"
+    },
+    {
+      "id": 5,
+      "titulo": "SPRINGBOOT",
+      "texto": "I learned Spring Boot in the 'Argentina Programa' course. It is a powerful backend tool with which I developed my personal project.",
+      "nivel": "Good"
+    },
+    {
+      "id": 6,
+      "titulo": "PYTHON",
+      "texto": "I learned Python through Udemy courses and self-taught methods. With this language, I created a small app.",
+      "nivel": "Low"
+    },
+    {
+      "id": 7,
+      "titulo": "GitHub",
+      "texto": "GitHub was included in the package taught in the 'Argentina Programa' course. It's great for safely managing multiple versions of the same project.",
+      "nivel": "Good"
+    },
+    {
+      "id": 8,
+      "titulo": "CSS",
+      "texto": "I know CSS from 'Argentina Program' and I have also deepened my skills in a self-taught way.",
+      "nivel": "Good"
+    },
+    {
+      "id":9,
+      "titulo": "English",
+      "texto": "B2: Intermediate-High. ",
+      "nivel": "Very Good"
+    },
+    {
+      "id":10,
+      "titulo": "Spanish",
+      "texto": "Native Spanish ",
+      "nivel": "Very Good"
+    },
+    {
+      "id":11,
+      "titulo": "MySQL",
+      "texto": "I used MySQL to create the database for my personal project, along with SpringBoot and Angular.",
+      "nivel": "Good"
+    },
+    {
+      "id": 12,
+      "titulo": "BOOTSTRAP",
+      "texto": "I learned this technology in 'Argentina Programa'. It is very useful for speeding up the styling of web pages.",
+      "nivel": "Very Good"
+    },
+    {
+      "id": 13,
+      "titulo": "JavaScript",
+      "texto": "I already knew JS before, when I started studying HTML, CSS, and JS self-taught, trying out various projects.",
+      "nivel": "Medium"
+    },
+    {
+      "id": 14,
+      "titulo": "Scrum",
+      "texto": "Agile methodology for teamwork studied in the course 'Argentina Programa'.",
+      "nivel": "Medium"
+    },
+    {
+      "id": 15,
+      "titulo": "C++",
+      "texto": "I learned C++ at UTN frsf University and also through self-teaching.",
+      "nivel": "Medium"
+    }
+  ],
+  "experiencia": [
+    {
+      "id": 0,
+      "nombreExperiencia": "Freelance Developer",
+      "descripcionExperiencia": "I may not have any prior experience working for a company, but I have been working as a freelance developer for the past few months. I am highly motivated to learn and improve my skills to meet the needs of any company that I work for.",
+      "periodoExperiencia": "January 2023 - Present"
+    }
+  ],
+  "educacion": [
+    {
+      "id": 1,
+      "titulo": "Full Stack Web Developer",
+      "institucion": "CESSI e INTI - Argentina Programa",
+      "descripcion": "Java SpringBoot- Angular - MySQL - Scrum",
+      "periodo": "2022-2023"
+    },
+    {
+      "id": 2,
+      "titulo": "Python 3: Curso completo de cero a experto",
+      "institucion": "Udemy",
+      "descripcion":  "Python",
+      "periodo": "2021"
+    },
+    {
+      "id": 3,
+      "titulo": "Bilingual Assistant Spanish / English",
+      "institucion": "Institute I.I.P.I N° 3026, Elisa - Santa Fe",
+      "descripcion": "-",
+      "periodo": "2012 - 2016"
+    },
+    {
+      "id": 4,
+      "titulo": "Bachelor's Degree in Business Administration",
+      "institucion": "High School Elisa Juan B. Alberdi 8159",
+      "descripcion": "-",
+      "periodo": "2012 - 2016"
+    }
+  ]
+}
